@@ -78,3 +78,5 @@ To run these projects, you'll need a C++ compiler. You can use any IDE like Code
 ## Contributing
 
 If you'd like to contribute to these projects by adding features or improving the code, feel free to fork this repository and submit a pull request. Contributions are always welcome!
+
+Used A.I to Generate Description 
